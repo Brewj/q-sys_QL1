@@ -2,6 +2,8 @@
 
 This is a little project proof of concent I've been develping.  The ultimate aim is to have control the channel mute on the audio console from GPI on a Q-SYS system.
 
+[![Watch the video](https://github.com/Brewj/q-sys_QL1/blob/main/03%20QL1%20Text%20Controller%202024-08-09.jpg)](https://github.com/Brewj/q-sys_QL1/blob/main/03%20QL1%20Text%20Controller%202024-08-09.mp4)
+
 ## Project Road Map
 - [ ] Publish proof of concept and invite feedback
 - [ ] Prove resiliance of TCP conneciton
